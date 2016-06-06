@@ -1,0 +1,11 @@
+{
+  "name": "selected-up",
+  "main": "./lib/selected-up",
+  "version": "0.1.0",
+  "description": "Focus on the code selected",
+  "repository": "https://github.com/gztchan/selected-up",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
